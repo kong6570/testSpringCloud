@@ -6,4 +6,4 @@ server:
   port: 8764
 spring:
   application:
-    name: service-ribbon #调用服务的服务标识符
+    name: service-ribbon

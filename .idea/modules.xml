@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eurekaserver/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicefeign/servicefeign.iml" filepath="$PROJECT_DIR$/servicefeign/servicefeign.iml" />
       <module fileurl="file://$PROJECT_DIR$/servicefibbon/servicefibbon.iml" filepath="$PROJECT_DIR$/servicefibbon/servicefibbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/servicehi/servicehi.iml" filepath="$PROJECT_DIR$/servicehi/servicehi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicefibbon/src/test/test.iml" filepath="$PROJECT_DIR$/servicefibbon/src/test/test.iml" />
       <module fileurl="file://$PROJECT_DIR$/testSpringCloud.iml" filepath="$PROJECT_DIR$/testSpringCloud.iml" />
     </modules>
   </component>

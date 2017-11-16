@@ -23,6 +23,8 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="eurekaserver" />
+        <module name="service-fibbon" />
+        <module name="servicefeign" />
         <module name="servicefibbon" />
         <module name="servicehi" />
         <module name="testSpringCloud" />
@@ -30,6 +32,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="eurekaserver" target="1.8" />
+      <module name="service-fibbon" target="1.8" />
+      <module name="servicefeign" target="1.8" />
       <module name="servicefibbon" target="1.8" />
       <module name="servicehi" target="1.8" />
       <module name="testSpringCloud" target="1.5" />

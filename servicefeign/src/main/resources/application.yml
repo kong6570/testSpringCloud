@@ -3,7 +3,10 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
 server:
-  port: 8762
+  port: 8765
 spring:
   application:
-    name: service-hi #调用服务的服务标识符
+    name: service-feign
+feign:
+  hystrix:
+    enabled: true
